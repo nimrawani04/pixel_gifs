@@ -4,12 +4,6 @@
 
 ![Coding](https://raw.githubusercontent.com/nimrawani04/pixel_gifs/main/coding.gif)
 
-### 🔗 Direct Link
-
-```
-https://raw.githubusercontent.com/nimrawani04/pixel_gifs/main/coding.gif
-```
-
 ### 🌐 HTML Usage
 
 ```html
