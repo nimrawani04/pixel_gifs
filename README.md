@@ -1,8 +1,6 @@
-# 👩‍💻 Nimra Wani – Pixel Dev Space
+## 💻 Coding GIF
 
-## 💻 Coding Setup
-
-[![Coding](https://raw.githubusercontent.com/nimrawani04/pixel_gifs/main/coding.gif)](https://raw.githubusercontent.com/nimrawani04/pixel_gifs/main/coding.gif)
+![Coding](https://raw.githubusercontent.com/nimrawani04/pixel_gifs/main/coding.gif)
 
 **Copy link:**
 
