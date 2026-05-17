@@ -62,3 +62,37 @@
 ```html
 <img src="https://raw.githubusercontent.com/nimrawani04/pixel_gifs/main/microprocessor.gif" width="600">
 ```
+
+---
+
+##  🎮 Gamer Girl Setup
+
+![Gamer Girl Setup](https://raw.githubusercontent.com/nimrawani04/pixel_gifs/main/GamerGirlSetup.gif)
+
+### 🌐 HTML Usage
+
+```html
+<img src="https://raw.githubusercontent.com/nimrawani04/pixel_gifs/main/GamerGirlSetup.gif" width="600">
+```
+---
+
+##  📊 Data Science Setup
+
+![Data Science Setup](https://raw.githubusercontent.com/nimrawani04/pixel_gifs/main/DataScienceSetup.gif)
+
+### 🌐 HTML Usage
+
+```html
+<img src="https://raw.githubusercontent.com/nimrawani04/pixel_gifs/main/DataScienceSetup.gif" width="600">
+```
+##  ☁️ Cloud & DevOps Setup
+
+![Cloud & DevOps Setup](https://raw.githubusercontent.com/nimrawani04/pixel_gifs/main/CloudCraftConsole.gif)
+
+### 🌐 HTML Usage
+
+```html
+<img src="https://raw.githubusercontent.com/nimrawani04/pixel_gifs/main/CloudCraftConsole.gif" width="600">
+```
+---
+
